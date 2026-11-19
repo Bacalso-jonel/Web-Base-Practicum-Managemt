@@ -1,0 +1,12 @@
+{
+    "name": "erlperseusgomezlatras/capstone-development",
+    "authors": [
+        {
+            "name": "erlperseusgomezlatras",
+            "email": "ergo.latras.coc@phinmaed.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^7.0"
+    }
+}
